@@ -12,6 +12,7 @@ Yulu has recently suffered considerable dips in its revenues. They have contract
 
 How you can help here? The company wants to know:
  1. Which variables are significant in predicting the demand for shared electric cycles in the Indian market?
+    
  2.How well those variables describe the electric cycle demands
 
 
