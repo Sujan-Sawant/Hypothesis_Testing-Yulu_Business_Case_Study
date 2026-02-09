@@ -13,3 +13,10 @@ Yulu has recently suffered considerable dips in its revenues. They have contract
 How you can help here? The company wants to know:
  1. Which variables are significant in predicting the demand for shared electric cycles in the Indian market?
  2.How well those variables describe the electric cycle demands
+
+
+- Analyzed demand drivers for shared electric cycles using usage, weather, and temporal datasets to investigate revenue decline in an urban mobility context.
+- Performed exploratory data analysis to uncover patterns related to seasonality, temperature, and working-day effects.
+- Designed and evaluated A/B tests and statistical hypothesis tests to quantify the impact of key variables on ride demand.
+- Interpreted statistical results and translated findings into actionable recommendations to improve utilization and revenue.
+- ***Tech Stack: Python, Pandas, NumPy, Statistical Testing***
